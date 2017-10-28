@@ -1,0 +1,22 @@
+{
+  "name": "DKSpecTest01",
+  "version": "0.1.0",
+  "summary": "A short description of DKSpecTest01.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangdekai/DKSpecTest01",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangdekai": "zdkzhuizhu@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangdekai/DKSpecTest01.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DKSpecTest01/Classes/**/*"
+}

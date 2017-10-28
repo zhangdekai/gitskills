@@ -1,0 +1,6 @@
+framework module DKSpecTest01 {
+  umbrella header "DKSpecTest01-umbrella.h"
+
+  export *
+  module * { export * }
+}
